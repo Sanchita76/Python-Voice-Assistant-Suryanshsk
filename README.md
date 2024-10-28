@@ -206,8 +206,8 @@ We are grateful to all the contributors who have helped improve this project. Yo
 <p align ="center">
 <a href="https://github.com/suryanshsk/Python-Voice-Assistant-Suryanshsk/graphs/contributors">
   <img align="center" src="https://contrib.rocks/image?max=100&repo=suryanshsk/Python-Voice-Assistant-Suryanshsk" />
-    <a href="https://github.com/{Sanchita76}/{Python-Voice-Assistant-Suryanshsk}/graphs/contributors">
-  <img align="center" src="https://contrib.rocks/image?max=100&repo={Sanchita76}/{Python-Voice-Assistant-Suryanshsk}" />
+<a href="https://github.com/Sanchita76/Python-Voice-Assistant-Suryanshsk/graphs/contributors">
+
 </a>
 
 </a>
